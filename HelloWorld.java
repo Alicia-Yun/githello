@@ -1,5 +1,5 @@
 public class HelloWorld {
-    private String greeting = "Hello, World!";
+    private String greeting;
     public HelloWorld(String greeting)
     {
         this.greeting = greeting;
